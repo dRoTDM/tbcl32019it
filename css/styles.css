@@ -1,0 +1,114 @@
+﻿/*
+  # Author Name: Ronik Karki;
+  # Author Section: B;
+  # Author Roll No: 2845;
+*/
+#container{
+width: 1140px;
+min-height: 800px;
+margin: auto auto;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
+.topnav {
+  background-color: #D3D3D3;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #000000;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #D3D3D3;
+  color: black;
+}
+
+.left{
+display:block;
+margin-left: 125px;
+margin-right: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  u {
+  text-decoration: underline;
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;  
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+}
+
+input[type=submit] {
+  background-color: #000000;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #000000;
+}
+.container1 {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.a{
+
+padding:10px;
+margin : 10px 10px;
+float: left;
+}
+.b{
+background-color: red;
+width: 10%;
+text-align: justify;
+}
+.c{
+background-color: green;
+width: 10%;
+text-align: justify;
+
+
+
+}
+.d{
+background-color: red;
+width: 10%;
+text-align: justify;
+}
+.e{
+background-color: green;
+width: 10%;
+text-align: justify;
+
+
+}
